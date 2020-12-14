@@ -5,4 +5,4 @@ This script checks if the x-frame-options header is set in the URLs that are giv
 It reads from a file containing URLs and outputs to stdout.
 
 # Usage
-./ClickJacker.sh <file containing URLs>
+./ClickJacker.sh filename
